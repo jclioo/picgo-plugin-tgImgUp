@@ -1,0 +1,19 @@
+{
+  "name": "picgo-plugin-tgImgUp",
+  "version": "1.0.0",
+  "description": "TG 图床",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "http://jclio.top",
+  "keywords": [
+    "picgo",
+    "picgo-plugin",
+    "picgo-gui-plugin"
+  ],
+  "author": {
+    "name": "jclio"
+  },
+  "license": "ISC"
+}
